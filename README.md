@@ -1,4 +1,4 @@
-# -HTML-input
+# -HTML-input https://itchief.ru/lessons/javascript/input-mask-for-html-input-element
 Назначение плагина masked input
 Плагин masked input предназначен для установления маски ввода элементу input с помощью кода JavaScript. 
 Данный плагин для своего функционирования требует наличие подключённой библиотеки jQuery. 
